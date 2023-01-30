@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# My Todo App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a project I created to replicate a basic trello application [Demo](https://todo-app-xi-beige.vercel.app/).
